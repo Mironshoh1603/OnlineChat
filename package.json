@@ -4,7 +4,7 @@
   "description": "Chat App With Sockket.io",
   "main": "server.js",
   "scripts": {
-    "Start": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
